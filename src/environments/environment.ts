@@ -1,3 +1,3 @@
 export const environment = {
-  wsSockets: 'https://server-socket-unandes-production.up.railway.app',
+  wsSockets: 'https://servidor-chat-production.up.railway.app',
 };
